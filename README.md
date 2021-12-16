@@ -14,7 +14,7 @@ Using CNN to mimic the driver based on training data from Torcs.
 ![selfdrive](https://user-images.githubusercontent.com/72936645/146306891-0323ee95-d889-4a07-a60c-04fb2f9405e3.gif)
 
 Reference:
-  Sentdex:https://www.youtube.com/c/sentdex
-  https://arxiv.org/abs/1910.06734
-  https://towardsdatascience.com/behavioural-cloning-applied-to-self-driving-car-on-a-simulated-track-5365e1082230
+  ## Sentdex:https://www.youtube.com/c/sentdex
+  ## https://arxiv.org/abs/1910.06734
+  ## https://towardsdatascience.com/behavioural-cloning-applied-to-self-driving-car-on-a-simulated-track-5365e1082230
   
