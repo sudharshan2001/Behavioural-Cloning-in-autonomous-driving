@@ -8,8 +8,8 @@ Using CNN to mimic the driver based on training data from Torcs.
   Trained various model using transfer learning like DenseNet, VGG19, EfficientNet etc and chose the model with high accuracy ('DenseNet') with the help of kaggle GPU and saved it.
   Then tested the model.
   
-  ## Result
-    As of now the model detects lane and adjust it's input to it and performs well in a straight lane but it gets cranky while turning. Need to adjust it later.
+## Result
+  As of now the model detects lane and adjust it's input to it and performs well in a straight lane but it gets cranky while turning. Need to adjust it later.
 
 ![selfdrive](https://user-images.githubusercontent.com/72936645/146306891-0323ee95-d889-4a07-a60c-04fb2f9405e3.gif)
 
